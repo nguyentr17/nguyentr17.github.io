@@ -1,12 +1,22 @@
 title: Trang Nguyen
 description: Trang Nguyen
 theme: minima # You can change this to the Jekyll theme you want
+baseurl: ""
+url: "https://nguyentr17.github.io"
 
 # Navigation Links
-nav_links:
-  - text: CV
-    url: /_pages/cv/
-  - text: Research
-    url: /_pages/research/
-  - text: Other Projects
-    url: /_pages/projects/
+#nav_links:
+#  - text: CV
+#    url: /_pages/cv/
+#  - text: Research
+#    url: /_pages/research/
+#  - text: Other Projects
+#    url: /_pages/projects/
+
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-seo-tag
+  - jekyll-redirect-from

@@ -11,7 +11,7 @@ Prior to UMass, Trang has worked for several years as a data scientist and data 
 
 Besides research, Trang serves as Co-Chair of [Voices of Data Science (VDS)](https://www.voices-of-data-science.com/), an annual data science conference hosted by UMass. Data science has grown to be one of the most popular careers in the last five years. Through VDS, she hopes to highlight voices of not only data scientists from underrepresented communities but also the ones that do data science in less conventional areas. Her ambition is to show the younger generations of data scientists, especially international students who have a big time constraint of choosing a career path, that there are more paths within data science with equal opportunities and risks than the ones often marketed at school.
 
-[CV / Resume](/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=xUDm-QIAAAAJ), [LinkedIn](https://www.linkedin.com/in/trangnguyen17/)  
+[CV / Resume](/assets/resume.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=xUDm-QIAAAAJ), [LinkedIn](https://www.linkedin.com/in/trangnguyen17/)  
 Email ID: [tramnguyen@cs.umass.edu](mailto:tramnguyen@cs.umass.edu)
 
 #### Updates
