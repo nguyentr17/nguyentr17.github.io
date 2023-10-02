@@ -1,0 +1,12 @@
+title: Trang Nguyen
+description: Trang Nguyen
+theme: minima # You can change this to the Jekyll theme you want
+
+# Navigation Links
+nav_links:
+  - text: CV
+    url: /_pages/cv/
+  - text: Research
+    url: /_pages/research/
+  - text: Other Projects
+    url: /_pages/projects/
